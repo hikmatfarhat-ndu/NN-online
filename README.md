@@ -8,7 +8,7 @@
 |                 |               |       [Practice](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/practice0.ipynb) |
 | November 21/5-8| Hikmat Farhat | [Automatic differentiation with Tensorlfow](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/4shallow_tensorflow.ipynb)|
 |                |                |[Movie reviews using Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/5IMDB.ipynb)|
-|                |                | [MNIST digits using Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/6keras-multilayer.ipynb)|
+|                |                | [Keras function API and callbacks](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/6keras-multilayer.ipynb)|
 |                 |                 | [Practice](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/practice1.ipynb)|
 | November 24/5-8 | Hikmat Farhat | [Convolution Networks in Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/7keras-cifar10.ipynb)|
 |                   |   | [Detecting emotions(including your own) using Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/8Emotions.ipynb)|
