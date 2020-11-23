@@ -3,28 +3,18 @@
 \begin{document}
     
 \begin{tikzpicture}
-<<<<<<< HEAD
     \path (0,0) node[draw,,minimum width=2cm,minimum height=10cm] (encoder){\Large Encoder};
     \path (-2,0) node[rotate=90] (input){\Large Input};
     \path (input) edge[->,thick] (encoder);
     \path (4,0) node[draw,minimum width=2cm,minimum height=5cm](code){\Large Code};
     \path (8,0) node[draw,,minimum width=2cm,minimum height=10cm] (decoder){\Large Decoder};
-=======
-    \path (0,0) node[draw,,minimum width=2cm,minimum height=10cm] (encoder){encoder};
-    \path (-2,0) node[rotate=90] (input){Input};
-    \path (input) edge[->,thick] (encoder);
-    \path (4,0) node[draw,minimum width=2cm,minimum height=5cm](code){Code};
-    \path (8,0) node[draw,,minimum width=2cm,minimum height=10cm] (decoder){Decoder};
->>>>>>> 8dab1e680ec7524d79800fde4f8c28cf2e5a1503
+
     \path (encoder.north east) edge (code.north west);
     \path (encoder.south east) edge (code.south west);
     \path (code.north east) edge (decoder.north west);
     \path (code.south east) edge (decoder.south west);
-<<<<<<< HEAD
     \path (12,0) node(output) {\Large output};
-=======
-    \path (12,0) node(output) {output};
->>>>>>> 8dab1e680ec7524d79800fde4f8c28cf2e5a1503
+
     \path (decoder) edge [->,thick] (output);
     \end{tikzpicture}
     \end{document}
