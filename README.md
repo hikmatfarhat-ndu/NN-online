@@ -2,7 +2,7 @@
 
 | Date         | Instructor | Title |
 |  ----        |  ----------|   ------|
-| November 19/5-8 | Hikmat Farhat | [Introduction and Logistic Regression](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/1ship.ipynb)|
+| November 19/5-8 | Hikmat Farhat | [Introduction and Logistic Regression](1ship.ipynb)|
 |                 |               |       [Shallow Network](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/2shallow.ipynb) |
 |                 |               |       [Deep Network and Backpropagation](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/3mnist-multilayer.ipynb) |
 |                 |               |       [Practice](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/practice0.ipynb) |
