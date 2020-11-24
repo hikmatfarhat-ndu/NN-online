@@ -13,7 +13,7 @@
 | November 24/5-8 | Hikmat Farhat | [Convolution Networks in Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/7keras-cifar10.ipynb)|
 |                   |   | [Detecting emotions(including your own) using Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/8Emotions.ipynb)|
 |                   |   | [Multiple inputs/outputs in Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/9MixedData.ipynb)|
-|                   |   | [Practice](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/9MixedData.ipynb)|
+|                   |   | [Practice](https://www.kaggle.com/c/cassava-disease)|
 | November 26/5-8 | Hikmat Farhat |Recurrent Networks, Autoencoders (denoising), Variational Encoders(data generation), Generative Adversarial Networks|
 
 
