@@ -15,8 +15,8 @@
 |                   |   | [Multiple inputs/outputs in Keras](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/9MixedData.ipynb)|
 |                   |   | [Practice](https://www.kaggle.com/c/cassava-disease)|
 | November 26/5-8 | Hikmat Farhat |[Recurrent Networks](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/11text_generation.ipynb)|
-                    |    | [Autoencoders](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/12Autoencoder.ipynb) |
-                    |    | [Generative Adversarial Networks](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/13Gan.ipynb)|
+|                    |    | [Autoencoders](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/12Autoencoder.ipynb) |
+|                    |    | [Generative Adversarial Networks](https://github.com/hikmatfarhat-ndu/NN-online/blob/main/13Gan.ipynb)|
 
 
 
