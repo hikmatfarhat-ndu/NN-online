@@ -1,4 +1,25 @@
-![](figures/AI_Course_Flyer_noLogos-1)
+#Machine Learning & Data Mining Workshop (16. November - 03. December 2020)
+
+In the context of an international project funded by DAAD, Notre-Dame University (NDU), Le cnam Liban (ISSAE-Cnam Liban), University of Balamand (UOB) and Hochschule Bonn-Rhein-Sieg University of Applied Sciences (H-BRS, Germany) are offering the students of the three Lebanese partners training in the field of AI and Machine Learning. 
+
+###Target group
+Senior undergraduate and graduate students with interest in AI and computing
+Application until November 1, 2020
+Please send your participation request by email to
+your institutional contact:
+
+- For NDU students: HFarhat@ndu.edu.lb
+- For ISSAE-Cnam Liban: Pascal.Fares@isae.edu.lb
+- For UOB: Walid.Karam@balamand.edu.lb
+- For all other requests: international@inf.h-brs.de
+###The Instructors
+Dr. Hikmat Farhat, NDU
+Dr. Pascal Fares, ISSAE-Cnam Liban
+Dr. Walid Karam, UOB
+Dr. Rainer Herpers, H-BRS
+Dr. Marco Hülsmann, H-BRS
+
+
 # Tentative Schedule
 
 | Date         | Instructor | Title |
