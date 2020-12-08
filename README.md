@@ -1,3 +1,4 @@
+![](figures/AI_Course_Flyer_noLogos-1)
 # Tentative Schedule
 
 | Date         | Instructor | Title |
